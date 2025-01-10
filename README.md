@@ -4,7 +4,18 @@ Bu proje, klasik Wumpus World oyununun Android Jetpack Compose kullanılarak olu
 
 ---
 
+## Oyunun Videosu
+
+
+
+https://github.com/user-attachments/assets/ff1273c0-746d-4a17-bdc0-b9948fe9dd08
+
+
+
+---
+
 ## **APK Dosyasını İndirin ve Kurun**
+
 Eğer projeyi derlemekle uğraşmak istemiyorsanız, oyunun hazır APK dosyasını indirip cihazınıza kurabilirsiniz:
 
 1. [GitHub Releases](https://github.com/ismailfatihbirak/WumpusWorld/releases) sayfasına gidin.
