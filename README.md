@@ -2,6 +2,17 @@
 
 Bu proje, klasik Wumpus World oyununun Android Jetpack Compose kullanılarak oluşturulmuş bir versiyonudur. Amacınız, altını bulup oyunu kazanmaktır. Ancak, Wumpus ve çukurlar gibi tehlikelerden kaçınmanız gerekmektedir.
 
+---
+
+## **APK Dosyasını İndirin ve Kurun**
+Eğer projeyi derlemekle uğraşmak istemiyorsanız, oyunun hazır APK dosyasını indirip cihazınıza kurabilirsiniz:
+
+1. [GitHub Releases](https://github.com/ismailfatihbirak/WumpusWorld/releases) sayfasına gidin.
+2. En son sürümün altında yer alan **Assets** kısmında, APK dosyasını bulun.
+3. APK dosyasını indirip cihazınıza kurun. Kurulum sırasında bilinmeyen kaynaklardan uygulama yükleme izni vermeniz gerekebilir.
+
+---
+
 ## **Özellikler**
 - 4x4 ızgara tabanlı oyun alanı
 - Tehlike uyarıları: Esinti (çukur) ve koku (Wumpus)
@@ -70,5 +81,3 @@ Eğer daha önce Android Studio kullanmadıysanız:
 - **Proje derlenmiyor**: Android Studio'nun güncel olduğundan emin olun. Gerekirse **File > Invalidate Caches / Restart** seçeneğini kullanın.
 - **Emülatör çalışmıyor**: Bilgisayarınızın sanallaştırma ayarlarını kontrol edin ve etkinleştirin.
 - **Gerçek cihaz algılanmıyor**: USB hata ayıklama modunu etkinleştirdiğinizden emin olun.
-
----
